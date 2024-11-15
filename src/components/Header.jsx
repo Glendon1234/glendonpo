@@ -8,7 +8,7 @@ const Header = () => (
       Glendon Dsouza
     </Typography>
     <Typography variant="body1">Phone: +918828201244</Typography>
-    <Typography variant="body1">Email: <Link href="mailto:glendondsouza10@gmail.com">sherwingonsalvesalt@gmail.com</Link></Typography>
+    <Typography variant="body1">Email: <Link href="mailto:glendondsouza10@gmail.com">glendondsouza10@gmail.com</Link></Typography>
     <Typography variant="body1">
       LinkedIn: <Link href="https://www.linkedin.com/in/glendon-dsouza-0b7803255/" target="_blank" rel="noopener noreferrer">
         Glendon Dsouza
